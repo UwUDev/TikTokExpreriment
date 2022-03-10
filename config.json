@@ -1,0 +1,15 @@
+{
+  "videoID": 7073561757528116485,
+  "workers": 50,
+  "iterations": 500,
+  "device": {
+    "os": "ANDROID",
+    "osVersion": "10",
+    "name": "SM-G9250"
+  },
+  "tikTokApp": {
+    "version": 220400,
+    "aid": 1340,
+    "language": "en_US"
+  }
+}
